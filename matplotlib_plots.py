@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec 17 18:16:56 2017
-
-@author: Inda
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sat Dec 16 22:33:33 2017
 
 @author: Padam Singh
